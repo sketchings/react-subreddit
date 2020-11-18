@@ -6,6 +6,9 @@ It uses the publicly accessable API uri's to retrieve the latest posts for a giv
 * When the UI receives the subreddit, display the most recent posts
 * The UI shows 10 posts at a time with the ability to move forward/backward through the list of posts
 
+After downloading or cloning the repository, you will need to run
+### `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
