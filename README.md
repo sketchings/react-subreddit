@@ -1,6 +1,6 @@
 # React subreddit Posts
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-It uses the publicly accessable API uri's to retrieve the latest posts for a given subreddit.
+It uses the publicly accessable API uri to retrieve the latest posts for a given subreddit.
 
 * A React UI that allows a user to enter a subreddit (i.e. reactjs - https://www.reddit.com/r/reactjs.json)
 * When the UI receives the subreddit, display the most recent posts
