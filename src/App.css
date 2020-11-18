@@ -1,0 +1,15 @@
+.icon-search {
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.5em;
+
+}
+.no-posts  {
+    padding-top: 62px;
+    text-align: center;
+    font-size: 2.8em;
+}
+.icon-post {
+    font-size: 6em;
+    display: block;
+}
